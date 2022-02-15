@@ -1,3 +1,3 @@
 # threejs-games-course
-Playing around with NikLerver's course files 
+Playing around with NikLerver's course files.
 Nothing significant there, see the original if you are interested... 
